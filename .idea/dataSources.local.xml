@@ -5,5 +5,8 @@
       <auth-required>false</auth-required>
       <first-sync>true</first-sync>
     </data-source>
+    <data-source name="Rails tutorial: test" uuid="a680aa2f-0c24-4639-8bae-dfde91dd037e">
+      <auth-required>false</auth-required>
+    </data-source>
   </component>
 </project>
